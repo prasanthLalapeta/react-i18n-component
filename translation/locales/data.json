@@ -1,0 +1,8 @@
+{
+  "en": {
+    "SampleComponent.welcomeMsessage": "You are using Sample Component"
+  },
+  "es": {
+    "SampleComponent.welcomeMsessage": "Spanish welcome Message"
+  }
+}
